@@ -1,0 +1,17 @@
+C:\Users\rmcoo\source\repos\Activity2\Activity2\bin\Debug\net6.0-windows\Activity2.exe
+C:\Users\rmcoo\source\repos\Activity2\Activity2\bin\Debug\net6.0-windows\Activity2.deps.json
+C:\Users\rmcoo\source\repos\Activity2\Activity2\bin\Debug\net6.0-windows\Activity2.runtimeconfig.json
+C:\Users\rmcoo\source\repos\Activity2\Activity2\bin\Debug\net6.0-windows\Activity2.dll
+C:\Users\rmcoo\source\repos\Activity2\Activity2\bin\Debug\net6.0-windows\Activity2.pdb
+C:\Users\rmcoo\source\repos\Activity2\Activity2\obj\Debug\net6.0-windows\Activity2.csproj.AssemblyReference.cache
+C:\Users\rmcoo\source\repos\Activity2\Activity2\obj\Debug\net6.0-windows\Activity2.Form1.resources
+C:\Users\rmcoo\source\repos\Activity2\Activity2\obj\Debug\net6.0-windows\Activity2.csproj.GenerateResource.cache
+C:\Users\rmcoo\source\repos\Activity2\Activity2\obj\Debug\net6.0-windows\Activity2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmcoo\source\repos\Activity2\Activity2\obj\Debug\net6.0-windows\Activity2.AssemblyInfoInputs.cache
+C:\Users\rmcoo\source\repos\Activity2\Activity2\obj\Debug\net6.0-windows\Activity2.AssemblyInfo.cs
+C:\Users\rmcoo\source\repos\Activity2\Activity2\obj\Debug\net6.0-windows\Activity2.csproj.CoreCompileInputs.cache
+C:\Users\rmcoo\source\repos\Activity2\Activity2\obj\Debug\net6.0-windows\Activity2.dll
+C:\Users\rmcoo\source\repos\Activity2\Activity2\obj\Debug\net6.0-windows\refint\Activity2.dll
+C:\Users\rmcoo\source\repos\Activity2\Activity2\obj\Debug\net6.0-windows\Activity2.pdb
+C:\Users\rmcoo\source\repos\Activity2\Activity2\obj\Debug\net6.0-windows\Activity2.genruntimeconfig.cache
+C:\Users\rmcoo\source\repos\Activity2\Activity2\obj\Debug\net6.0-windows\ref\Activity2.dll
