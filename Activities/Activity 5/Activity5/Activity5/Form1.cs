@@ -25,20 +25,19 @@ namespace Activity5
             try
             {
                 //declaring variables
-                //input  files
+                //input  file
                 StreamReader inputFile;
-
-                //input texts
+                //input text variables
                 string inputText;
                 string lowercaseText;
                 string completeSentence = "";
-                //first and last alphabetically
+                //first and last alphabetically variables
                 string firstAlpha = "z";
                 string lastAlpha = "a";
-                //longest word counter
+                //longest word variables
                 string mostLetters = "";
                 int mostLettersCount = 0;
-                //most vowels
+                //most vowels variables
                 string mostVowels = "";
                 int highestVowelCount = 0;
 
@@ -137,8 +136,7 @@ namespace Activity5
                             }
                             //show results in the textbox
                             resultsTextBox.Text = ("The words in lowercase are: " + completeSentence + Environment.NewLine + "The first word alphabetically is: " +
-                                firstAlpha + Environment.NewLine + "The last word alphabetically is: " + lastAlpha +
-                                 Environment.NewLine + "The longest word is: " + mostLetters + Environment.NewLine +
+                                firstAlpha + Environment.NewLine + "The last word alphabetically is: " + lastAlpha + Environment.NewLine + "The longest word is: " + mostLetters + Environment.NewLine +
                                 "The word with the most vowels is: " + mostVowels);
                         }
                     }
