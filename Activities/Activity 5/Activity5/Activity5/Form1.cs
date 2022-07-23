@@ -8,7 +8,10 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
-
+//Ryan Coon
+//This is my own work.
+//July 23, 2022
+//CST-150
 namespace Activity5
 {
     public partial class Activity5 : Form
