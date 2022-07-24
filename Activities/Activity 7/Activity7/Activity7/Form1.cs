@@ -14,25 +14,25 @@ namespace Activity7
         private void calculateButton_Click(object sender, EventArgs e)
         {
             //variables
-            int numTerms = int.Parse(inputTextBox.Text);
+            int numTerms;
             double finResult = 0;
 
             //exception
-            if (int.TryParse(inputTextBox.Text, out numTerms))
+            if (int.TryParse(inputTextBox.Text, out numTerms))//takes input from user and turns it into a useable variable
             {
-                //loop start
+                //loop 
                 for (int j = 1; j <= numTerms; j++)
                 {
                     //even
-                      if(j % 2 == 0)
-                      {
-                          finResult = finResult + (4.0 / ((2 * j) - 1));
-                      }
+                    if (j % 2 == 0)
+                    {
+                        finResult = finResult - (4.0 / ((2 * j) - 1));
+                    }
                     //odd
-                      else
-                      {
-                          finResult = finResult - (4.0 / ((2 * j) - 1)); 
-                      }
+                    else
+                    {
+                        finResult = finResult + (4.0 / ((2 * j) - 1));
+                    }
                 }
                 //display answer
                 answerLabel.Text = ("Approximate value of pi after " + inputTextBox.Text + " terms" + Environment.NewLine + "= " + finResult.ToString());
