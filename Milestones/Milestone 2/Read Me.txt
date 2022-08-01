@@ -1,0 +1,8 @@
+CST-150 Milestone Project Overview
+
+2.	Designing the Inventory class
+
+a.	Deliverables
+i.	UML class diagram for the Inventory class
+ii.	Declaration and implementation of the Inventory class
+iii.	Test (driver) program for the Inventory class 
