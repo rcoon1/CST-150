@@ -1,0 +1,17 @@
+C:\Users\rmcoo\source\repos\Activity11\Activity11\bin\Debug\net6.0-windows\Activity11.exe
+C:\Users\rmcoo\source\repos\Activity11\Activity11\bin\Debug\net6.0-windows\Activity11.deps.json
+C:\Users\rmcoo\source\repos\Activity11\Activity11\bin\Debug\net6.0-windows\Activity11.runtimeconfig.json
+C:\Users\rmcoo\source\repos\Activity11\Activity11\bin\Debug\net6.0-windows\Activity11.dll
+C:\Users\rmcoo\source\repos\Activity11\Activity11\bin\Debug\net6.0-windows\Activity11.pdb
+C:\Users\rmcoo\source\repos\Activity11\Activity11\obj\Debug\net6.0-windows\Activity11.csproj.AssemblyReference.cache
+C:\Users\rmcoo\source\repos\Activity11\Activity11\obj\Debug\net6.0-windows\Activity11.Form1.resources
+C:\Users\rmcoo\source\repos\Activity11\Activity11\obj\Debug\net6.0-windows\Activity11.csproj.GenerateResource.cache
+C:\Users\rmcoo\source\repos\Activity11\Activity11\obj\Debug\net6.0-windows\Activity11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rmcoo\source\repos\Activity11\Activity11\obj\Debug\net6.0-windows\Activity11.AssemblyInfoInputs.cache
+C:\Users\rmcoo\source\repos\Activity11\Activity11\obj\Debug\net6.0-windows\Activity11.AssemblyInfo.cs
+C:\Users\rmcoo\source\repos\Activity11\Activity11\obj\Debug\net6.0-windows\Activity11.csproj.CoreCompileInputs.cache
+C:\Users\rmcoo\source\repos\Activity11\Activity11\obj\Debug\net6.0-windows\Activity11.dll
+C:\Users\rmcoo\source\repos\Activity11\Activity11\obj\Debug\net6.0-windows\refint\Activity11.dll
+C:\Users\rmcoo\source\repos\Activity11\Activity11\obj\Debug\net6.0-windows\Activity11.pdb
+C:\Users\rmcoo\source\repos\Activity11\Activity11\obj\Debug\net6.0-windows\Activity11.genruntimeconfig.cache
+C:\Users\rmcoo\source\repos\Activity11\Activity11\obj\Debug\net6.0-windows\ref\Activity11.dll
