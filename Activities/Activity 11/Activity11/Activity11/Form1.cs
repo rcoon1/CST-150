@@ -13,13 +13,13 @@ namespace Activity11
         private void rollDiceButton_Click(object sender, EventArgs e)
         {
             {
-                //generate random number of sides for dice.
+                //generate random number of sides for dice qith given instruction
                 Random randSides = new Random();
                 int sides = randSides.Next(4, 20);
                 //create dice objects
                 Dice dice1 = new Dice(sides, 0);
                 Dice dice2 = new Dice(sides, 0);
-                //initialize to count number of rolls until snake eyes
+                //initialize to count number of rolls
                 int rolls = 0;
                 do
                 {
