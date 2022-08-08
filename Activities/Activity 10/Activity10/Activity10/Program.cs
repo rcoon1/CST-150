@@ -7,6 +7,10 @@ using System.Text;
 using System.Threading.Tasks;
 namespace CST117_IC08_console
 {
+    //CST-150
+    //Ryan Coon
+    //This is my own work along with given code
+    //8/7/2022
     class Program
     {
         static void Main(string[] args)

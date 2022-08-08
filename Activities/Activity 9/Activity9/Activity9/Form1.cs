@@ -10,6 +10,10 @@ using System.Windows.Forms;
 
 namespace Activity9
 {
+    //CST-150
+    //Ryan Coon
+    //This is my own work
+    //8/7/2022
     public partial class Form1 : Form
     {
         public Form1()
