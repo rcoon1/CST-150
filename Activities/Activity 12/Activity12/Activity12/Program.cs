@@ -1,5 +1,9 @@
 ﻿using System;
 using System.IO;
+//CST-150
+//Ryan Coon
+//This is my own work
+//8/13/2022
 
 namespace Activity12
 {
