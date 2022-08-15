@@ -1,0 +1,13 @@
+C:\Users\rmcoo\source\repos\InventoryMaster\InventoryMaster\bin\Debug\InventoryMaster.exe.config
+C:\Users\rmcoo\source\repos\InventoryMaster\InventoryMaster\bin\Debug\InventoryMaster.exe
+C:\Users\rmcoo\source\repos\InventoryMaster\InventoryMaster\bin\Debug\InventoryMaster.pdb
+C:\Users\rmcoo\source\repos\InventoryMaster\InventoryMaster\obj\Debug\InventoryMaster.csproj.AssemblyReference.cache
+C:\Users\rmcoo\source\repos\InventoryMaster\InventoryMaster\obj\Debug\InventoryMaster.csproj.SuggestedBindingRedirects.cache
+C:\Users\rmcoo\source\repos\InventoryMaster\InventoryMaster\obj\Debug\InventoryMaster.LoginForm.resources
+C:\Users\rmcoo\source\repos\InventoryMaster\InventoryMaster\obj\Debug\InventoryMaster.Properties.Resources.resources
+C:\Users\rmcoo\source\repos\InventoryMaster\InventoryMaster\obj\Debug\InventoryMaster.csproj.GenerateResource.cache
+C:\Users\rmcoo\source\repos\InventoryMaster\InventoryMaster\obj\Debug\InventoryMaster.csproj.CoreCompileInputs.cache
+C:\Users\rmcoo\source\repos\InventoryMaster\InventoryMaster\obj\Debug\InventoryMaster.exe
+C:\Users\rmcoo\source\repos\InventoryMaster\InventoryMaster\obj\Debug\InventoryMaster.pdb
+C:\Users\rmcoo\source\repos\InventoryMaster\InventoryMaster\obj\Debug\InventoryMaster.InventoryForm.resources
+C:\Users\rmcoo\source\repos\InventoryMaster\InventoryMaster\obj\Debug\InventoryMaster.AddPartForm.resources
